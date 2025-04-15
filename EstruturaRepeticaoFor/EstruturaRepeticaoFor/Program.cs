@@ -18,7 +18,7 @@ namespace EstruturaRepeticaoFor
                 Console.WriteLine($"O {i}° valor é: {x}");
                 soma += x;
             }
-            Console.WriteLine($"A soma é {soma} ");
+            Console.WriteLine($"A soma é {soma}! ");
         }
     }
 }
