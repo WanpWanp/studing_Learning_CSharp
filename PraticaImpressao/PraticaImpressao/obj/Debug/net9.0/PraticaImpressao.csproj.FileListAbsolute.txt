@@ -1,0 +1,14 @@
+D:\C#\PraticaImpressao\PraticaImpressao\bin\Debug\net9.0\PraticaImpressao.exe
+D:\C#\PraticaImpressao\PraticaImpressao\bin\Debug\net9.0\PraticaImpressao.deps.json
+D:\C#\PraticaImpressao\PraticaImpressao\bin\Debug\net9.0\PraticaImpressao.runtimeconfig.json
+D:\C#\PraticaImpressao\PraticaImpressao\bin\Debug\net9.0\PraticaImpressao.dll
+D:\C#\PraticaImpressao\PraticaImpressao\bin\Debug\net9.0\PraticaImpressao.pdb
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\PraticaImpressao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\PraticaImpressao.AssemblyInfoInputs.cache
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\PraticaImpressao.AssemblyInfo.cs
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\PraticaImpressao.csproj.CoreCompileInputs.cache
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\PraticaImpressao.dll
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\refint\PraticaImpressao.dll
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\PraticaImpressao.pdb
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\PraticaImpressao.genruntimeconfig.cache
+D:\C#\PraticaImpressao\PraticaImpressao\obj\Debug\net9.0\ref\PraticaImpressao.dll

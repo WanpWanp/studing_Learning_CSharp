@@ -1,0 +1,14 @@
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\bin\Debug\net9.0\EstruturaCondicionalWhile.exe
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\bin\Debug\net9.0\EstruturaCondicionalWhile.deps.json
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\bin\Debug\net9.0\EstruturaCondicionalWhile.runtimeconfig.json
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\bin\Debug\net9.0\EstruturaCondicionalWhile.dll
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\bin\Debug\net9.0\EstruturaCondicionalWhile.pdb
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\EstruturaCondicionalWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\EstruturaCondicionalWhile.AssemblyInfoInputs.cache
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\EstruturaCondicionalWhile.AssemblyInfo.cs
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\EstruturaCondicionalWhile.csproj.CoreCompileInputs.cache
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\EstruturaCondicionalWhile.dll
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\refint\EstruturaCondicionalWhile.dll
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\EstruturaCondicionalWhile.pdb
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\EstruturaCondicionalWhile.genruntimeconfig.cache
+D:\C#\EstruturaCondicionalWhile\EstruturaCondicionalWhile\obj\Debug\net9.0\ref\EstruturaCondicionalWhile.dll

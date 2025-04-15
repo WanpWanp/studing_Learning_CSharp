@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\OperadoresAtribuicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C70095E-3C47-4E70-9AB4-BDC6A363FF0B}|OperadoresAtribuicao\\OperadoresAtribuicao.csproj|d:\\c#\\operadoresatribuicao\\operadoresatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C70095E-3C47-4E70-9AB4-BDC6A363FF0B}|OperadoresAtribuicao\\OperadoresAtribuicao.csproj|solutionrelative:operadoresatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\OperadoresAtribuicao\\OperadoresAtribuicao\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresAtribuicao\\Program.cs",
+              "ToolTip": "D:\\C#\\OperadoresAtribuicao\\OperadoresAtribuicao\\Program.cs*",
+              "RelativeToolTip": "OperadoresAtribuicao\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:20:54.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.exe
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.deps.json
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.runtimeconfig.json
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.dll
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.pdb
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.AssemblyInfo.cs
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.dll
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\refint\OperadoresAritmeticos.dll
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.pdb
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.genruntimeconfig.cache
+D:\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net9.0\ref\OperadoresAritmeticos.dll

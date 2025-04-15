@@ -1,0 +1,14 @@
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\bin\Debug\net9.0\CourseTypesCSharp.exe
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\bin\Debug\net9.0\CourseTypesCSharp.deps.json
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\bin\Debug\net9.0\CourseTypesCSharp.runtimeconfig.json
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\bin\Debug\net9.0\CourseTypesCSharp.dll
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\bin\Debug\net9.0\CourseTypesCSharp.pdb
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\CourseTypesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\CourseTypesCSharp.AssemblyInfoInputs.cache
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\CourseTypesCSharp.AssemblyInfo.cs
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\CourseTypesCSharp.csproj.CoreCompileInputs.cache
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\CourseTypesCSharp.dll
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\refint\CourseTypesCSharp.dll
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\CourseTypesCSharp.pdb
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\CourseTypesCSharp.genruntimeconfig.cache
+D:\C#\CourseTypesCSharp\CourseTypesCSharp\obj\Debug\net9.0\ref\CourseTypesCSharp.dll

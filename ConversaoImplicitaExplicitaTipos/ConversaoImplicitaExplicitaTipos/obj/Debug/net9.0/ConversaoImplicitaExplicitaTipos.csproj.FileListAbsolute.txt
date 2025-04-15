@@ -1,0 +1,14 @@
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\bin\Debug\net9.0\ConversaoImplicitaExplicitaTipos.exe
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\bin\Debug\net9.0\ConversaoImplicitaExplicitaTipos.deps.json
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\bin\Debug\net9.0\ConversaoImplicitaExplicitaTipos.runtimeconfig.json
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\bin\Debug\net9.0\ConversaoImplicitaExplicitaTipos.dll
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\bin\Debug\net9.0\ConversaoImplicitaExplicitaTipos.pdb
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ConversaoImplicitaExplicitaTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ConversaoImplicitaExplicitaTipos.AssemblyInfoInputs.cache
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ConversaoImplicitaExplicitaTipos.AssemblyInfo.cs
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ConversaoImplicitaExplicitaTipos.csproj.CoreCompileInputs.cache
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ConversaoImplicitaExplicitaTipos.dll
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\refint\ConversaoImplicitaExplicitaTipos.dll
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ConversaoImplicitaExplicitaTipos.pdb
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ConversaoImplicitaExplicitaTipos.genruntimeconfig.cache
+D:\C#\ConversaoImplicitaExplicitaTipos\ConversaoImplicitaExplicitaTipos\obj\Debug\net9.0\ref\ConversaoImplicitaExplicitaTipos.dll

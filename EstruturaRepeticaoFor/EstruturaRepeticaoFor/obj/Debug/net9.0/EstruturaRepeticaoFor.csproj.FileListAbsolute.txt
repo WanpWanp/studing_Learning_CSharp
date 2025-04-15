@@ -1,0 +1,14 @@
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.AssemblyInfoInputs.cache
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.AssemblyInfo.cs
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.csproj.CoreCompileInputs.cache
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\bin\Debug\net9.0\EstruturaRepeticaoFor.exe
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\bin\Debug\net9.0\EstruturaRepeticaoFor.deps.json
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\bin\Debug\net9.0\EstruturaRepeticaoFor.runtimeconfig.json
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\bin\Debug\net9.0\EstruturaRepeticaoFor.dll
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\bin\Debug\net9.0\EstruturaRepeticaoFor.pdb
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.dll
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\refint\EstruturaRepeticaoFor.dll
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.pdb
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.genruntimeconfig.cache
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\ref\EstruturaRepeticaoFor.dll

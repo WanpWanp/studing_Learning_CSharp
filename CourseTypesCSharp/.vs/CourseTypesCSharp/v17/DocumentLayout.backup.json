@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CourseTypesCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8287DA66-D0EE-4B98-8DAD-594AF5E1BE05}|CourseTypesCSharp\\CourseTypesCSharp.csproj|d:\\c#\\coursetypescsharp\\coursetypescsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8287DA66-D0EE-4B98-8DAD-594AF5E1BE05}|CourseTypesCSharp\\CourseTypesCSharp.csproj|solutionrelative:coursetypescsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CourseTypesCSharp\\CourseTypesCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CourseTypesCSharp\\Program.cs",
+              "ToolTip": "D:\\C#\\CourseTypesCSharp\\CourseTypesCSharp\\Program.cs*",
+              "RelativeToolTip": "CourseTypesCSharp\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T22:31:44.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

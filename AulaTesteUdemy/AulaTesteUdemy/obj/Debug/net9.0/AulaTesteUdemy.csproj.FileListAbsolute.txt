@@ -1,0 +1,14 @@
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\bin\Debug\net9.0\AulaTesteUdemy.exe
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\bin\Debug\net9.0\AulaTesteUdemy.deps.json
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\bin\Debug\net9.0\AulaTesteUdemy.runtimeconfig.json
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\bin\Debug\net9.0\AulaTesteUdemy.dll
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\bin\Debug\net9.0\AulaTesteUdemy.pdb
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\AulaTesteUdemy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\AulaTesteUdemy.AssemblyInfoInputs.cache
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\AulaTesteUdemy.AssemblyInfo.cs
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\AulaTesteUdemy.csproj.CoreCompileInputs.cache
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\AulaTesteUdemy.dll
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\refint\AulaTesteUdemy.dll
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\AulaTesteUdemy.pdb
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\AulaTesteUdemy.genruntimeconfig.cache
+D:\C#\AulaTesteUdemy\AulaTesteUdemy\obj\Debug\net9.0\ref\AulaTesteUdemy.dll

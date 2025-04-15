@@ -1,0 +1,14 @@
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\bin\Debug\net9.0\PlaceholderConcatInterpolacao.exe
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\bin\Debug\net9.0\PlaceholderConcatInterpolacao.deps.json
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\bin\Debug\net9.0\PlaceholderConcatInterpolacao.runtimeconfig.json
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\bin\Debug\net9.0\PlaceholderConcatInterpolacao.dll
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\bin\Debug\net9.0\PlaceholderConcatInterpolacao.pdb
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\PlaceholderConcatInterpolacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\PlaceholderConcatInterpolacao.AssemblyInfoInputs.cache
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\PlaceholderConcatInterpolacao.AssemblyInfo.cs
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\PlaceholderConcatInterpolacao.csproj.CoreCompileInputs.cache
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\PlaceholderConcatInterpolacao.dll
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\refint\PlaceholderConcatInterpolacao.dll
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\PlaceholderConcatInterpolacao.pdb
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\PlaceholderConcatInterpolacao.genruntimeconfig.cache
+D:\C#\PlaceholderConcatInterpolacao\PlaceholderConcatInterpolacao\obj\Debug\net9.0\ref\PlaceholderConcatInterpolacao.dll

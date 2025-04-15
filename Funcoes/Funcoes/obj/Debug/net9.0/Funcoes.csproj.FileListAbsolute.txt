@@ -1,0 +1,14 @@
+D:\C#\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.exe
+D:\C#\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.deps.json
+D:\C#\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.runtimeconfig.json
+D:\C#\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.dll
+D:\C#\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.pdb
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfoInputs.cache
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfo.cs
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.dll
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\refint\Funcoes.dll
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.pdb
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.genruntimeconfig.cache
+D:\C#\Funcoes\Funcoes\obj\Debug\net9.0\ref\Funcoes.dll
