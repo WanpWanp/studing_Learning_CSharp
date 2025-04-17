@@ -9,16 +9,19 @@ namespace EstruturaRepeticaoFor
         static void Main(string[] args) {
 
             Console.Write("Quantos número serão inseridos? ");
-            int n = int.Parse(Console.ReadLine()!), soma = 0, x;
+            int n = int.Parse(Console.ReadLine()!), soma = 0;
+            int[] numVet = new int[n];
 
             for (int i = 1; i <= n; i++)
             {
                 Console.Write($"Insira o {i}° número: ");
-                x = int.Parse(Console.ReadLine()!);
-                Console.WriteLine($"O {i}° valor é: {x}");
-                soma += x;
+                numVet[i - 1] = int.Parse(Console.ReadLine()!);
+                Console.WriteLine($"O {i}° valor é: {numVet[i - 1]}");
+                soma += numVet[i - 1];
             }
-            Console.WriteLine($"A soma é {soma}! ");
+            string texto = string.Join(", ", numVet[..^1]) + " E " + numVet[^1];
+
+            Console.WriteLine($"A soma de {texto} é {soma}!");
         }
     }
 }

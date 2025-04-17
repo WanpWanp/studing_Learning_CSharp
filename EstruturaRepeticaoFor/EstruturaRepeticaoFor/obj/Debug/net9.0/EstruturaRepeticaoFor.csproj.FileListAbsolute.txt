@@ -12,3 +12,4 @@ D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\refint\Estrut
 D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.pdb
 D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.genruntimeconfig.cache
 D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\ref\EstruturaRepeticaoFor.dll
+D:\C#\EstruturaRepeticaoFor\EstruturaRepeticaoFor\obj\Debug\net9.0\EstruturaRepeticaoFor.sourcelink.json

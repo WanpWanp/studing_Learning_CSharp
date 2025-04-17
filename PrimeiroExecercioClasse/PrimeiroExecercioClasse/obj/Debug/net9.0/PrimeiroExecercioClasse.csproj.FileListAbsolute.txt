@@ -1,0 +1,15 @@
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\bin\Debug\net9.0\PrimeiroExecercioClasse.exe
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\bin\Debug\net9.0\PrimeiroExecercioClasse.deps.json
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\bin\Debug\net9.0\PrimeiroExecercioClasse.runtimeconfig.json
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\bin\Debug\net9.0\PrimeiroExecercioClasse.dll
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\bin\Debug\net9.0\PrimeiroExecercioClasse.pdb
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.AssemblyInfoInputs.cache
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.AssemblyInfo.cs
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.csproj.CoreCompileInputs.cache
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.sourcelink.json
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.dll
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\refint\PrimeiroExecercioClasse.dll
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.pdb
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\PrimeiroExecercioClasse.genruntimeconfig.cache
+D:\C#\PrimeiroExecercioClasse\PrimeiroExecercioClasse\obj\Debug\net9.0\ref\PrimeiroExecercioClasse.dll

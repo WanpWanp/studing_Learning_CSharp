@@ -1,0 +1,15 @@
+D:\C#\ControleEstoque\ControleEstoque\bin\Debug\net9.0\ControleEstoque.exe
+D:\C#\ControleEstoque\ControleEstoque\bin\Debug\net9.0\ControleEstoque.deps.json
+D:\C#\ControleEstoque\ControleEstoque\bin\Debug\net9.0\ControleEstoque.runtimeconfig.json
+D:\C#\ControleEstoque\ControleEstoque\bin\Debug\net9.0\ControleEstoque.dll
+D:\C#\ControleEstoque\ControleEstoque\bin\Debug\net9.0\ControleEstoque.pdb
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.AssemblyInfoInputs.cache
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.AssemblyInfo.cs
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.csproj.CoreCompileInputs.cache
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.sourcelink.json
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.dll
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\refint\ControleEstoque.dll
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.pdb
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ControleEstoque.genruntimeconfig.cache
+D:\C#\ControleEstoque\ControleEstoque\obj\Debug\net9.0\ref\ControleEstoque.dll

@@ -1,0 +1,15 @@
+D:\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\net9.0\MembrosEstaticos.exe
+D:\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\net9.0\MembrosEstaticos.deps.json
+D:\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\net9.0\MembrosEstaticos.runtimeconfig.json
+D:\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\net9.0\MembrosEstaticos.dll
+D:\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\net9.0\MembrosEstaticos.pdb
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.AssemblyInfoInputs.cache
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.AssemblyInfo.cs
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.sourcelink.json
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.dll
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\refint\MembrosEstaticos.dll
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.pdb
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\MembrosEstaticos.genruntimeconfig.cache
+D:\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\net9.0\ref\MembrosEstaticos.dll
