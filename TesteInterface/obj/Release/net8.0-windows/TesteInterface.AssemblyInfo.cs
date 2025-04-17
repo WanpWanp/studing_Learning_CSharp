@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f4e543aac1a6ad9abe1295f6b16d4ed6ad660e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
