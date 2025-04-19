@@ -1,0 +1,15 @@
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\bin\Debug\net9.0\ControleEstoqueEncapsulamento.exe
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\bin\Debug\net9.0\ControleEstoqueEncapsulamento.deps.json
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\bin\Debug\net9.0\ControleEstoqueEncapsulamento.runtimeconfig.json
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\bin\Debug\net9.0\ControleEstoqueEncapsulamento.dll
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\bin\Debug\net9.0\ControleEstoqueEncapsulamento.pdb
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.AssemblyInfoInputs.cache
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.AssemblyInfo.cs
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.csproj.CoreCompileInputs.cache
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.sourcelink.json
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.dll
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\refint\ControleEstoqueEncapsulamento.dll
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.pdb
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ControleEstoqueEncapsulamento.genruntimeconfig.cache
+D:\C#\ControleEstoqueEncapsulamento\ControleEstoqueEncapsulamento\obj\Debug\net9.0\ref\ControleEstoqueEncapsulamento.dll

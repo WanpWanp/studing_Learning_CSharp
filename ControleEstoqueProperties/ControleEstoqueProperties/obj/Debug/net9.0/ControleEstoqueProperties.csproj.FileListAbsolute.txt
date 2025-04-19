@@ -1,0 +1,15 @@
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\bin\Debug\net9.0\ControleEstoqueProperties.exe
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\bin\Debug\net9.0\ControleEstoqueProperties.deps.json
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\bin\Debug\net9.0\ControleEstoqueProperties.runtimeconfig.json
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\bin\Debug\net9.0\ControleEstoqueProperties.dll
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\bin\Debug\net9.0\ControleEstoqueProperties.pdb
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.AssemblyInfoInputs.cache
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.AssemblyInfo.cs
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.csproj.CoreCompileInputs.cache
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.sourcelink.json
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.dll
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\refint\ControleEstoqueProperties.dll
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.pdb
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ControleEstoqueProperties.genruntimeconfig.cache
+D:\C#\ControleEstoqueProperties\ControleEstoqueProperties\obj\Debug\net9.0\ref\ControleEstoqueProperties.dll

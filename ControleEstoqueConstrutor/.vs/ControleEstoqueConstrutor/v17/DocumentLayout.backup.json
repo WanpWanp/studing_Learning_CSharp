@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ControleEstoqueConstrutor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82457CFA-6E44-448F-BB3F-8D9339A7F601}|ControleEstoqueConstrutor\\ControleEstoqueConstrutor.csproj|d:\\c#\\controleestoqueconstrutor\\controleestoqueconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82457CFA-6E44-448F-BB3F-8D9339A7F601}|ControleEstoqueConstrutor\\ControleEstoqueConstrutor.csproj|solutionrelative:controleestoqueconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82457CFA-6E44-448F-BB3F-8D9339A7F601}|ControleEstoqueConstrutor\\ControleEstoqueConstrutor.csproj|d:\\c#\\controleestoqueconstrutor\\controleestoqueconstrutor\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82457CFA-6E44-448F-BB3F-8D9339A7F601}|ControleEstoqueConstrutor\\ControleEstoqueConstrutor.csproj|solutionrelative:controleestoqueconstrutor\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\C#\\ControleEstoqueConstrutor\\ControleEstoqueConstrutor\\Produto.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueConstrutor\\Produto.cs",
+              "ToolTip": "D:\\C#\\ControleEstoqueConstrutor\\ControleEstoqueConstrutor\\Produto.cs",
+              "RelativeToolTip": "ControleEstoqueConstrutor\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:06:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ControleEstoqueConstrutor\\ControleEstoqueConstrutor\\Program.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueConstrutor\\Program.cs",
+              "ToolTip": "D:\\C#\\ControleEstoqueConstrutor\\ControleEstoqueConstrutor\\Program.cs*",
+              "RelativeToolTip": "ControleEstoqueConstrutor\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:05:59.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

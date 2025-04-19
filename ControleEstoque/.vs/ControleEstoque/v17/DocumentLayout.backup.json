@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C#\\ControleEstoque\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{48EA1B46-1559-4D2B-BBF5-BF4B794FCB72}|ControleEstoque\\ControleEstoque.csproj|d:\\c#\\controleestoque\\controleestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48EA1B46-1559-4D2B-BBF5-BF4B794FCB72}|ControleEstoque\\ControleEstoque.csproj|solutionrelative:controleestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48EA1B46-1559-4D2B-BBF5-BF4B794FCB72}|ControleEstoque\\ControleEstoque.csproj|d:\\c#\\controleestoque\\controleestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48EA1B46-1559-4D2B-BBF5-BF4B794FCB72}|ControleEstoque\\ControleEstoque.csproj|solutionrelative:controleestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "D:\\C#\\ControleEstoque\\ControleEstoque\\Produto.cs",
-              "RelativeDocumentMoniker": "ControleEstoque\\Produto.cs",
-              "ToolTip": "D:\\C#\\ControleEstoque\\ControleEstoque\\Produto.cs*",
-              "RelativeToolTip": "ControleEstoque\\Produto.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA9wB8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:44:47.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\ControleEstoque\\ControleEstoque\\Program.cs",
-              "RelativeDocumentMoniker": "ControleEstoque\\Program.cs",
-              "ToolTip": "D:\\C#\\ControleEstoque\\ControleEstoque\\Program.cs*",
-              "RelativeToolTip": "ControleEstoque\\Program.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAawC4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:42:48.005Z",
-              "EditorCaption": ""
             }
           ]
         }
