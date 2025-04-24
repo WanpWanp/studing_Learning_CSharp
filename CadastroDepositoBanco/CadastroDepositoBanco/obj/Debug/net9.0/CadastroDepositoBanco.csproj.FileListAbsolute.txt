@@ -1,0 +1,15 @@
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\bin\Debug\net9.0\CadastroDepositoBanco.exe
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\bin\Debug\net9.0\CadastroDepositoBanco.deps.json
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\bin\Debug\net9.0\CadastroDepositoBanco.runtimeconfig.json
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\bin\Debug\net9.0\CadastroDepositoBanco.dll
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\bin\Debug\net9.0\CadastroDepositoBanco.pdb
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.AssemblyInfoInputs.cache
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.AssemblyInfo.cs
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.csproj.CoreCompileInputs.cache
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.sourcelink.json
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.dll
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\refint\CadastroDepositoBanco.dll
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.pdb
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\CadastroDepositoBanco.genruntimeconfig.cache
+D:\C#\CadastroDepositoBanco\CadastroDepositoBanco\obj\Debug\net9.0\ref\CadastroDepositoBanco.dll
