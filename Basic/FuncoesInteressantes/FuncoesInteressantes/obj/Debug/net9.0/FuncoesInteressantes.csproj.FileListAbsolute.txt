@@ -1,0 +1,15 @@
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\bin\Debug\net9.0\FuncoesInteressantes.exe
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\bin\Debug\net9.0\FuncoesInteressantes.deps.json
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\bin\Debug\net9.0\FuncoesInteressantes.runtimeconfig.json
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\bin\Debug\net9.0\FuncoesInteressantes.dll
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\bin\Debug\net9.0\FuncoesInteressantes.pdb
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.AssemblyInfoInputs.cache
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.AssemblyInfo.cs
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.csproj.CoreCompileInputs.cache
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.sourcelink.json
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.dll
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\refint\FuncoesInteressantes.dll
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.pdb
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\FuncoesInteressantes.genruntimeconfig.cache
+D:\C#\FuncoesInteressantes\FuncoesInteressantes\obj\Debug\net9.0\ref\FuncoesInteressantes.dll

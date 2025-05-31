@@ -1,0 +1,15 @@
+D:\C#\DateTimeKind_\DateTimeKind_\bin\Debug\net9.0\DateTimeKind_.exe
+D:\C#\DateTimeKind_\DateTimeKind_\bin\Debug\net9.0\DateTimeKind_.deps.json
+D:\C#\DateTimeKind_\DateTimeKind_\bin\Debug\net9.0\DateTimeKind_.runtimeconfig.json
+D:\C#\DateTimeKind_\DateTimeKind_\bin\Debug\net9.0\DateTimeKind_.dll
+D:\C#\DateTimeKind_\DateTimeKind_\bin\Debug\net9.0\DateTimeKind_.pdb
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.AssemblyInfoInputs.cache
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.AssemblyInfo.cs
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.csproj.CoreCompileInputs.cache
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.sourcelink.json
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.dll
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\refint\DateTimeKind_.dll
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.pdb
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\DateTimeKind_.genruntimeconfig.cache
+D:\C#\DateTimeKind_\DateTimeKind_\obj\Debug\net9.0\ref\DateTimeKind_.dll

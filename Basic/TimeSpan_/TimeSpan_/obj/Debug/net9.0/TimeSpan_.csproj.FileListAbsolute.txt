@@ -1,0 +1,15 @@
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.AssemblyInfoInputs.cache
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.AssemblyInfo.cs
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.csproj.CoreCompileInputs.cache
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.sourcelink.json
+D:\C#\TimeSpan_\TimeSpan_\bin\Debug\net9.0\TimeSpan_.exe
+D:\C#\TimeSpan_\TimeSpan_\bin\Debug\net9.0\TimeSpan_.deps.json
+D:\C#\TimeSpan_\TimeSpan_\bin\Debug\net9.0\TimeSpan_.runtimeconfig.json
+D:\C#\TimeSpan_\TimeSpan_\bin\Debug\net9.0\TimeSpan_.dll
+D:\C#\TimeSpan_\TimeSpan_\bin\Debug\net9.0\TimeSpan_.pdb
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.dll
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\refint\TimeSpan_.dll
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.pdb
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\TimeSpan_.genruntimeconfig.cache
+D:\C#\TimeSpan_\TimeSpan_\obj\Debug\net9.0\ref\TimeSpan_.dll

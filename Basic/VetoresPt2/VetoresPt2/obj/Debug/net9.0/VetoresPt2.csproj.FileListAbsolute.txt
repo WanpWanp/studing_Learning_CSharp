@@ -1,0 +1,15 @@
+D:\C#\VetoresPt2\VetoresPt2\bin\Debug\net9.0\VetoresPt2.exe
+D:\C#\VetoresPt2\VetoresPt2\bin\Debug\net9.0\VetoresPt2.deps.json
+D:\C#\VetoresPt2\VetoresPt2\bin\Debug\net9.0\VetoresPt2.runtimeconfig.json
+D:\C#\VetoresPt2\VetoresPt2\bin\Debug\net9.0\VetoresPt2.dll
+D:\C#\VetoresPt2\VetoresPt2\bin\Debug\net9.0\VetoresPt2.pdb
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.AssemblyInfoInputs.cache
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.AssemblyInfo.cs
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.csproj.CoreCompileInputs.cache
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.sourcelink.json
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.dll
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\refint\VetoresPt2.dll
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.pdb
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\VetoresPt2.genruntimeconfig.cache
+D:\C#\VetoresPt2\VetoresPt2\obj\Debug\net9.0\ref\VetoresPt2.dll

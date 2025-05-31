@@ -1,0 +1,15 @@
+D:\C#\AluguelQuarto\AluguelQuarto\bin\Debug\net9.0\AluguelQuarto.exe
+D:\C#\AluguelQuarto\AluguelQuarto\bin\Debug\net9.0\AluguelQuarto.deps.json
+D:\C#\AluguelQuarto\AluguelQuarto\bin\Debug\net9.0\AluguelQuarto.runtimeconfig.json
+D:\C#\AluguelQuarto\AluguelQuarto\bin\Debug\net9.0\AluguelQuarto.dll
+D:\C#\AluguelQuarto\AluguelQuarto\bin\Debug\net9.0\AluguelQuarto.pdb
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.AssemblyInfoInputs.cache
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.AssemblyInfo.cs
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.csproj.CoreCompileInputs.cache
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.sourcelink.json
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.dll
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\refint\AluguelQuarto.dll
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.pdb
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\AluguelQuarto.genruntimeconfig.cache
+D:\C#\AluguelQuarto\AluguelQuarto\obj\Debug\net9.0\ref\AluguelQuarto.dll

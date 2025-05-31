@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\VetoresPt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B0153-1365-4710-9571-01CB487550F6}|VetoresPt2\\VetoresPt2.csproj|d:\\c#\\vetorespt2\\vetorespt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B0153-1365-4710-9571-01CB487550F6}|VetoresPt2\\VetoresPt2.csproj|solutionrelative:vetorespt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B0153-1365-4710-9571-01CB487550F6}|VetoresPt2\\VetoresPt2.csproj|d:\\c#\\vetorespt2\\vetorespt2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B0153-1365-4710-9571-01CB487550F6}|VetoresPt2\\VetoresPt2.csproj|solutionrelative:vetorespt2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\VetoresPt2\\VetoresPt2\\Product.cs",
+              "RelativeDocumentMoniker": "VetoresPt2\\Product.cs",
+              "ToolTip": "D:\\C#\\VetoresPt2\\VetoresPt2\\Product.cs",
+              "RelativeToolTip": "VetoresPt2\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:09:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\VetoresPt2\\VetoresPt2\\Program.cs",
+              "RelativeDocumentMoniker": "VetoresPt2\\Program.cs",
+              "ToolTip": "D:\\C#\\VetoresPt2\\VetoresPt2\\Program.cs",
+              "RelativeToolTip": "VetoresPt2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:07:39.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\C#\ForEach\ForEach\bin\Debug\net9.0\ForEach.exe
+D:\C#\ForEach\ForEach\bin\Debug\net9.0\ForEach.deps.json
+D:\C#\ForEach\ForEach\bin\Debug\net9.0\ForEach.runtimeconfig.json
+D:\C#\ForEach\ForEach\bin\Debug\net9.0\ForEach.dll
+D:\C#\ForEach\ForEach\bin\Debug\net9.0\ForEach.pdb
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.AssemblyInfoInputs.cache
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.AssemblyInfo.cs
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.csproj.CoreCompileInputs.cache
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.sourcelink.json
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.dll
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\refint\ForEach.dll
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.pdb
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ForEach.genruntimeconfig.cache
+D:\C#\ForEach\ForEach\obj\Debug\net9.0\ref\ForEach.dll

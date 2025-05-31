@@ -1,0 +1,15 @@
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\bin\Debug\net9.0\PropriedadesOpDateTime.exe
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\bin\Debug\net9.0\PropriedadesOpDateTime.deps.json
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\bin\Debug\net9.0\PropriedadesOpDateTime.runtimeconfig.json
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\bin\Debug\net9.0\PropriedadesOpDateTime.dll
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\bin\Debug\net9.0\PropriedadesOpDateTime.pdb
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.AssemblyInfoInputs.cache
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.AssemblyInfo.cs
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.csproj.CoreCompileInputs.cache
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.sourcelink.json
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.dll
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\refint\PropriedadesOpDateTime.dll
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.pdb
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\PropriedadesOpDateTime.genruntimeconfig.cache
+D:\C#\PropriedadesOpDateTime\PropriedadesOpDateTime\obj\Debug\net9.0\ref\PropriedadesOpDateTime.dll

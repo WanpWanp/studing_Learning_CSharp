@@ -1,0 +1,15 @@
+D:\C#\Fixacaomatriz\Fixacaomatriz\bin\Debug\net9.0\Fixacaomatriz.exe
+D:\C#\Fixacaomatriz\Fixacaomatriz\bin\Debug\net9.0\Fixacaomatriz.deps.json
+D:\C#\Fixacaomatriz\Fixacaomatriz\bin\Debug\net9.0\Fixacaomatriz.runtimeconfig.json
+D:\C#\Fixacaomatriz\Fixacaomatriz\bin\Debug\net9.0\Fixacaomatriz.dll
+D:\C#\Fixacaomatriz\Fixacaomatriz\bin\Debug\net9.0\Fixacaomatriz.pdb
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.AssemblyInfoInputs.cache
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.AssemblyInfo.cs
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.csproj.CoreCompileInputs.cache
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.sourcelink.json
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.dll
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\refint\Fixacaomatriz.dll
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.pdb
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\Fixacaomatriz.genruntimeconfig.cache
+D:\C#\Fixacaomatriz\Fixacaomatriz\obj\Debug\net9.0\ref\Fixacaomatriz.dll

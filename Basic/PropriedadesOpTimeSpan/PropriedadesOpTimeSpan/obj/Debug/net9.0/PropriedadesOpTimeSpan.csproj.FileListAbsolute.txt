@@ -1,0 +1,15 @@
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\bin\Debug\net9.0\PropriedadesOpTimeSpan.exe
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\bin\Debug\net9.0\PropriedadesOpTimeSpan.deps.json
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\bin\Debug\net9.0\PropriedadesOpTimeSpan.runtimeconfig.json
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\bin\Debug\net9.0\PropriedadesOpTimeSpan.dll
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\bin\Debug\net9.0\PropriedadesOpTimeSpan.pdb
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.AssemblyInfoInputs.cache
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.AssemblyInfo.cs
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.csproj.CoreCompileInputs.cache
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.sourcelink.json
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.dll
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\refint\PropriedadesOpTimeSpan.dll
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.pdb
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\PropriedadesOpTimeSpan.genruntimeconfig.cache
+D:\C#\PropriedadesOpTimeSpan\PropriedadesOpTimeSpan\obj\Debug\net9.0\ref\PropriedadesOpTimeSpan.dll

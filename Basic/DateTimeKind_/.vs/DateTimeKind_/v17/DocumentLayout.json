@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\DateTimeKind_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{390872AC-8745-4A68-AA29-886285956235}|DateTimeKind_\\DateTimeKind_.csproj|d:\\c#\\datetimekind_\\datetimekind_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390872AC-8745-4A68-AA29-886285956235}|DateTimeKind_\\DateTimeKind_.csproj|solutionrelative:datetimekind_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\DateTimeKind_\\DateTimeKind_\\Program.cs",
+              "RelativeDocumentMoniker": "DateTimeKind_\\Program.cs",
+              "ToolTip": "D:\\C#\\DateTimeKind_\\DateTimeKind_\\Program.cs",
+              "RelativeToolTip": "DateTimeKind_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:34:00.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

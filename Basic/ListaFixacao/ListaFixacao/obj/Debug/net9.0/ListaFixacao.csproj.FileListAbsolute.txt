@@ -1,0 +1,15 @@
+D:\C#\ListaFixacao\ListaFixacao\bin\Debug\net9.0\ListaFixacao.exe
+D:\C#\ListaFixacao\ListaFixacao\bin\Debug\net9.0\ListaFixacao.deps.json
+D:\C#\ListaFixacao\ListaFixacao\bin\Debug\net9.0\ListaFixacao.runtimeconfig.json
+D:\C#\ListaFixacao\ListaFixacao\bin\Debug\net9.0\ListaFixacao.dll
+D:\C#\ListaFixacao\ListaFixacao\bin\Debug\net9.0\ListaFixacao.pdb
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.AssemblyInfoInputs.cache
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.AssemblyInfo.cs
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.csproj.CoreCompileInputs.cache
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.sourcelink.json
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.dll
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\refint\ListaFixacao.dll
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.pdb
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ListaFixacao.genruntimeconfig.cache
+D:\C#\ListaFixacao\ListaFixacao\obj\Debug\net9.0\ref\ListaFixacao.dll

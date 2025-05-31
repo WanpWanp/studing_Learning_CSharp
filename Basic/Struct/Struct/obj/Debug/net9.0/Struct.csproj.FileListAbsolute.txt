@@ -1,0 +1,15 @@
+D:\C#\Struct\Struct\bin\Debug\net9.0\Struct.exe
+D:\C#\Struct\Struct\bin\Debug\net9.0\Struct.deps.json
+D:\C#\Struct\Struct\bin\Debug\net9.0\Struct.runtimeconfig.json
+D:\C#\Struct\Struct\bin\Debug\net9.0\Struct.dll
+D:\C#\Struct\Struct\bin\Debug\net9.0\Struct.pdb
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.AssemblyInfoInputs.cache
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.AssemblyInfo.cs
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.csproj.CoreCompileInputs.cache
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.sourcelink.json
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.dll
+D:\C#\Struct\Struct\obj\Debug\net9.0\refint\Struct.dll
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.pdb
+D:\C#\Struct\Struct\obj\Debug\net9.0\Struct.genruntimeconfig.cache
+D:\C#\Struct\Struct\obj\Debug\net9.0\ref\Struct.dll
