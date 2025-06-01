@@ -1,0 +1,15 @@
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\bin\Debug\net9.0\StringBuilderActivity.exe
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\bin\Debug\net9.0\StringBuilderActivity.deps.json
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\bin\Debug\net9.0\StringBuilderActivity.runtimeconfig.json
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\bin\Debug\net9.0\StringBuilderActivity.dll
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\bin\Debug\net9.0\StringBuilderActivity.pdb
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.AssemblyInfoInputs.cache
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.AssemblyInfo.cs
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.csproj.CoreCompileInputs.cache
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.sourcelink.json
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.dll
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\refint\StringBuilderActivity.dll
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.pdb
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\StringBuilderActivity.genruntimeconfig.cache
+D:\C#\Medium\Cap8\StringBuilderActivity\StringBuilderActivity\obj\Debug\net9.0\ref\StringBuilderActivity.dll

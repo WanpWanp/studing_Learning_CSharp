@@ -1,0 +1,15 @@
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\bin\Debug\net9.0\WorkerActivity.exe
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\bin\Debug\net9.0\WorkerActivity.deps.json
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\bin\Debug\net9.0\WorkerActivity.runtimeconfig.json
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\bin\Debug\net9.0\WorkerActivity.dll
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\bin\Debug\net9.0\WorkerActivity.pdb
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.AssemblyInfoInputs.cache
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.AssemblyInfo.cs
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.csproj.CoreCompileInputs.cache
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.sourcelink.json
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.dll
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\refint\WorkerActivity.dll
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.pdb
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\WorkerActivity.genruntimeconfig.cache
+D:\C#\Medium\Cap8\WorkerActivity\WorkerActivity\obj\Debug\net9.0\ref\WorkerActivity.dll
