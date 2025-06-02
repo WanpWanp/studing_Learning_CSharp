@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|d:\\c#\\medium\\cap9\\upcastingdowncasting\\upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|d:\\c#\\medium\\cap9\\upcastingdowncasting\\upcastingdowncasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|d:\\c#\\medium\\cap9\\upcastingdowncasting\\upcastingdowncasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|d:\\c#\\medium\\cap9\\upcastingdowncasting\\upcastingdowncasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418C9324-03E4-4C9F-9D27-B1654D00F9B3}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:53:31.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:47:18.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\Account.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:46:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Program.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Program.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\UpcastingDowncasting\\UpcastingDowncasting\\Program.cs*",
+              "RelativeToolTip": "UpcastingDowncasting\\Program.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:44:31.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

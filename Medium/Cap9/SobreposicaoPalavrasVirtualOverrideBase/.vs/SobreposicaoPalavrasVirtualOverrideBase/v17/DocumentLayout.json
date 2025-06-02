@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|d:\\c#\\medium\\cap9\\sobreposicaopalavrasvirtualoverridebase\\sobreposicaopalavrasvirtualoverridebase\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverridebase\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|d:\\c#\\medium\\cap9\\sobreposicaopalavrasvirtualoverridebase\\sobreposicaopalavrasvirtualoverridebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverridebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|d:\\c#\\medium\\cap9\\sobreposicaopalavrasvirtualoverridebase\\sobreposicaopalavrasvirtualoverridebase\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverridebase\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|d:\\c#\\medium\\cap9\\sobreposicaopalavrasvirtualoverridebase\\sobreposicaopalavrasvirtualoverridebase\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D3E126-3721-47D3-8974-F190EE161E45}|SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverridebase\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideBase\\Entities\\SavingsAccount.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideBase\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:29:01.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideBase\\Entities\\BusinessAccount.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideBase\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:28:50.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideBase\\Entities\\Account.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Entities\\Account.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideBase\\Entities\\Account.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:28:20.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Program.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideBase\\Program.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\SobreposicaoPalavrasVirtualOverrideBase\\SobreposicaoPalavrasVirtualOverrideBase\\Program.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideBase\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:25:44.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
