@@ -1,0 +1,15 @@
+D:\C#\Medium\Cap9\MagicTest\MagicTest\bin\Debug\net9.0\MagicTest.exe
+D:\C#\Medium\Cap9\MagicTest\MagicTest\bin\Debug\net9.0\MagicTest.deps.json
+D:\C#\Medium\Cap9\MagicTest\MagicTest\bin\Debug\net9.0\MagicTest.runtimeconfig.json
+D:\C#\Medium\Cap9\MagicTest\MagicTest\bin\Debug\net9.0\MagicTest.dll
+D:\C#\Medium\Cap9\MagicTest\MagicTest\bin\Debug\net9.0\MagicTest.pdb
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.AssemblyInfoInputs.cache
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.AssemblyInfo.cs
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.csproj.CoreCompileInputs.cache
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.sourcelink.json
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.dll
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\refint\MagicTest.dll
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.pdb
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\MagicTest.genruntimeconfig.cache
+D:\C#\Medium\Cap9\MagicTest\MagicTest\obj\Debug\net9.0\ref\MagicTest.dll
