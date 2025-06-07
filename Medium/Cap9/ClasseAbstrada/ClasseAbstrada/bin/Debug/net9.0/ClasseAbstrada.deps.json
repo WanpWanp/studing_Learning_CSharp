@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ClasseAbstrada/1.0.0": {
+        "runtime": {
+          "ClasseAbstrada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasseAbstrada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

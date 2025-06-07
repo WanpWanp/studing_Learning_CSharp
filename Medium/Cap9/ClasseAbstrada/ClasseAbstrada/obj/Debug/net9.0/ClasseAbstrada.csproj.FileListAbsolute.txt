@@ -1,0 +1,15 @@
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\bin\Debug\net9.0\ClasseAbstrada.exe
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\bin\Debug\net9.0\ClasseAbstrada.deps.json
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\bin\Debug\net9.0\ClasseAbstrada.runtimeconfig.json
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\bin\Debug\net9.0\ClasseAbstrada.dll
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\bin\Debug\net9.0\ClasseAbstrada.pdb
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.GeneratedMSBuildEditorConfig.editorconfig
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.AssemblyInfoInputs.cache
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.AssemblyInfo.cs
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.csproj.CoreCompileInputs.cache
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.sourcelink.json
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.dll
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\refint\ClasseAbstrada.dll
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.pdb
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ClasseAbstrada.genruntimeconfig.cache
+D:\drive2\C#\Medium\Cap9\ClasseAbstrada\ClasseAbstrada\obj\Debug\net9.0\ref\ClasseAbstrada.dll
