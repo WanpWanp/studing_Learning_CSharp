@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|d:\\drive2\\c#\\medium\\cap9\\products\\products\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|solutionrelative:products\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|d:\\drive2\\c#\\medium\\cap9\\products\\products\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|solutionrelative:products\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|d:\\drive2\\c#\\medium\\cap9\\products\\products\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|solutionrelative:products\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|d:\\drive2\\c#\\medium\\cap9\\products\\products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|solutionrelative:products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|d:\\drive2\\c#\\medium\\cap9\\products\\products\\entities\\enums\\productsenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1080988-8B3D-4C5B-8D45-0ECB97DFDC7A}|Products\\Products.csproj|solutionrelative:products\\entities\\enums\\productsenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsEnums.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\Enums\\ProductsEnums.cs",
+              "RelativeDocumentMoniker": "Products\\Entities\\Enums\\ProductsEnums.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\Enums\\ProductsEnums.cs",
+              "RelativeToolTip": "Products\\Entities\\Enums\\ProductsEnums.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:41:07.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "Products\\Entities\\UsedProduct.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "Products\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA7wBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:35:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "Products\\Entities\\ImportedProduct.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "Products\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vx4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:34:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Products\\Entities\\Product.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Entities\\Product.cs",
+              "RelativeToolTip": "Products\\Entities\\Product.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAWwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:34:15.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Program.cs",
+              "RelativeDocumentMoniker": "Products\\Program.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\Products\\Products\\Program.cs",
+              "RelativeToolTip": "Products\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:25:45.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

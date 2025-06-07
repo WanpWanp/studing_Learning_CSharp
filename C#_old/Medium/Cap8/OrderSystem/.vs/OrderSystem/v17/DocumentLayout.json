@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Medium\\Cap8\\OrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|d:\\c#\\medium\\cap8\\ordersystem\\ordersystem\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|solutionrelative:ordersystem\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|d:\\c#\\medium\\cap8\\ordersystem\\ordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|solutionrelative:ordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|d:\\c#\\medium\\cap8\\ordersystem\\ordersystem\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|solutionrelative:ordersystem\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|d:\\c#\\medium\\cap8\\ordersystem\\ordersystem\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|solutionrelative:ordersystem\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|d:\\c#\\medium\\cap8\\ordersystem\\ordersystem\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|solutionrelative:ordersystem\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|d:\\c#\\medium\\cap8\\ordersystem\\ordersystem\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0F3933-7617-4657-8FDC-EC09EA04C6EE}|OrderSystem\\OrderSystem.csproj|solutionrelative:ordersystem\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderSystem\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "OrderSystem\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:02:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OrderSystem\\Entities\\Product.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Product.cs",
+              "RelativeToolTip": "OrderSystem\\Entities\\Product.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:02:34.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderSystem\\Entities\\Order.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderSystem\\Entities\\Order.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:02:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderSystem\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OrderSystem\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:02:03.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "OrderSystem\\Entities\\Client.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Entities\\Client.cs",
+              "RelativeToolTip": "OrderSystem\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:01:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OrderSystem\\Program.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\OrderSystem\\OrderSystem\\Program.cs",
+              "RelativeToolTip": "OrderSystem\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:59:52.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

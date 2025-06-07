@@ -1,0 +1,15 @@
+D:\drive2\C#\Medium\Cap9\Products\Products\bin\Debug\net9.0\Products.exe
+D:\drive2\C#\Medium\Cap9\Products\Products\bin\Debug\net9.0\Products.deps.json
+D:\drive2\C#\Medium\Cap9\Products\Products\bin\Debug\net9.0\Products.runtimeconfig.json
+D:\drive2\C#\Medium\Cap9\Products\Products\bin\Debug\net9.0\Products.dll
+D:\drive2\C#\Medium\Cap9\Products\Products\bin\Debug\net9.0\Products.pdb
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.AssemblyInfoInputs.cache
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.AssemblyInfo.cs
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.csproj.CoreCompileInputs.cache
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.sourcelink.json
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.dll
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\refint\Products.dll
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.pdb
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\Products.genruntimeconfig.cache
+D:\drive2\C#\Medium\Cap9\Products\Products\obj\Debug\net9.0\ref\Products.dll

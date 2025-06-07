@@ -1,0 +1,15 @@
+D:\C#\Medium\Cap8\Enumerações\Enumerações\bin\Debug\net9.0\Enumeracoes.exe
+D:\C#\Medium\Cap8\Enumerações\Enumerações\bin\Debug\net9.0\Enumeracoes.deps.json
+D:\C#\Medium\Cap8\Enumerações\Enumerações\bin\Debug\net9.0\Enumeracoes.runtimeconfig.json
+D:\C#\Medium\Cap8\Enumerações\Enumerações\bin\Debug\net9.0\Enumeracoes.dll
+D:\C#\Medium\Cap8\Enumerações\Enumerações\bin\Debug\net9.0\Enumeracoes.pdb
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.AssemblyInfoInputs.cache
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.AssemblyInfo.cs
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.csproj.CoreCompileInputs.cache
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.sourcelink.json
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.dll
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\refint\Enumeracoes.dll
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.pdb
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\Enumeracoes.genruntimeconfig.cache
+D:\C#\Medium\Cap8\Enumerações\Enumerações\obj\Debug\net9.0\ref\Enumeracoes.dll

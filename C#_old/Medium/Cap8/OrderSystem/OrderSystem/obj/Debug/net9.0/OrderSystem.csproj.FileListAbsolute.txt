@@ -1,0 +1,15 @@
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.AssemblyInfoInputs.cache
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.AssemblyInfo.cs
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.csproj.CoreCompileInputs.cache
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.sourcelink.json
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\bin\Debug\net9.0\OrderSystem.exe
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\bin\Debug\net9.0\OrderSystem.deps.json
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\bin\Debug\net9.0\OrderSystem.runtimeconfig.json
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\bin\Debug\net9.0\OrderSystem.dll
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\bin\Debug\net9.0\OrderSystem.pdb
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.dll
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\refint\OrderSystem.dll
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.pdb
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\OrderSystem.genruntimeconfig.cache
+D:\C#\Medium\Cap8\OrderSystem\OrderSystem\obj\Debug\net9.0\ref\OrderSystem.dll

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Medium\\Cap9\\Payroll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AED9A56-760A-4E63-B769-8EB5E6F71435}|Payroll\\Payroll.csproj|d:\\c#\\medium\\cap9\\payroll\\payroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AED9A56-760A-4E63-B769-8EB5E6F71435}|Payroll\\Payroll.csproj|solutionrelative:payroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AED9A56-760A-4E63-B769-8EB5E6F71435}|Payroll\\Payroll.csproj|d:\\c#\\medium\\cap9\\payroll\\payroll\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AED9A56-760A-4E63-B769-8EB5E6F71435}|Payroll\\Payroll.csproj|solutionrelative:payroll\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AED9A56-760A-4E63-B769-8EB5E6F71435}|Payroll\\Payroll.csproj|d:\\c#\\medium\\cap9\\payroll\\payroll\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AED9A56-760A-4E63-B769-8EB5E6F71435}|Payroll\\Payroll.csproj|solutionrelative:payroll\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutSourcedEmployee.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\Payroll\\Payroll\\Entities\\OutSourcedEmployee.cs",
+              "RelativeDocumentMoniker": "Payroll\\Entities\\OutSourcedEmployee.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\Payroll\\Payroll\\Entities\\OutSourcedEmployee.cs",
+              "RelativeToolTip": "Payroll\\Entities\\OutSourcedEmployee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:32:39.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\Payroll\\Payroll\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Payroll\\Entities\\Employee.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\Payroll\\Payroll\\Entities\\Employee.cs",
+              "RelativeToolTip": "Payroll\\Entities\\Employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:31:49.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap9\\Payroll\\Payroll\\Program.cs",
+              "RelativeDocumentMoniker": "Payroll\\Program.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap9\\Payroll\\Payroll\\Program.cs",
+              "RelativeToolTip": "Payroll\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:29:24.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net9.0\UpcastingDowncasting.exe
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net9.0\UpcastingDowncasting.deps.json
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net9.0\UpcastingDowncasting.runtimeconfig.json
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net9.0\UpcastingDowncasting.dll
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net9.0\UpcastingDowncasting.pdb
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.AssemblyInfoInputs.cache
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.AssemblyInfo.cs
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.sourcelink.json
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.dll
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\refint\UpcastingDowncasting.dll
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.pdb
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\UpcastingDowncasting.genruntimeconfig.cache
+D:\C#\Medium\Cap9\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net9.0\ref\UpcastingDowncasting.dll

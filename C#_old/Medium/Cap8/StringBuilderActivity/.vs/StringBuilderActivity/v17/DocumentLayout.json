@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Medium\\Cap8\\StringBuilderActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427A6151-C1B4-4243-8495-1B7C1D7CF6B8}|StringBuilderActivity\\StringBuilderActivity.csproj|d:\\c#\\medium\\cap8\\stringbuilderactivity\\stringbuilderactivity\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427A6151-C1B4-4243-8495-1B7C1D7CF6B8}|StringBuilderActivity\\StringBuilderActivity.csproj|solutionrelative:stringbuilderactivity\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427A6151-C1B4-4243-8495-1B7C1D7CF6B8}|StringBuilderActivity\\StringBuilderActivity.csproj|d:\\c#\\medium\\cap8\\stringbuilderactivity\\stringbuilderactivity\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427A6151-C1B4-4243-8495-1B7C1D7CF6B8}|StringBuilderActivity\\StringBuilderActivity.csproj|solutionrelative:stringbuilderactivity\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427A6151-C1B4-4243-8495-1B7C1D7CF6B8}|StringBuilderActivity\\StringBuilderActivity.csproj|d:\\c#\\medium\\cap8\\stringbuilderactivity\\stringbuilderactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427A6151-C1B4-4243-8495-1B7C1D7CF6B8}|StringBuilderActivity\\StringBuilderActivity.csproj|solutionrelative:stringbuilderactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\StringBuilderActivity\\StringBuilderActivity\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "StringBuilderActivity\\Entities\\Post.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\StringBuilderActivity\\StringBuilderActivity\\Entities\\Post.cs",
+              "RelativeToolTip": "StringBuilderActivity\\Entities\\Post.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:29:37.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\StringBuilderActivity\\StringBuilderActivity\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "StringBuilderActivity\\Entities\\Comment.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\StringBuilderActivity\\StringBuilderActivity\\Entities\\Comment.cs",
+              "RelativeToolTip": "StringBuilderActivity\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:27:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Medium\\Cap8\\StringBuilderActivity\\StringBuilderActivity\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilderActivity\\Program.cs",
+              "ToolTip": "D:\\C#\\Medium\\Cap8\\StringBuilderActivity\\StringBuilderActivity\\Program.cs",
+              "RelativeToolTip": "StringBuilderActivity\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAjwEgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:25:11.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
