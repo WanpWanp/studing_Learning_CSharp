@@ -1,0 +1,15 @@
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\bin\Debug\net9.0\MaetodosAbstratus.exe
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\bin\Debug\net9.0\MaetodosAbstratus.deps.json
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\bin\Debug\net9.0\MaetodosAbstratus.runtimeconfig.json
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\bin\Debug\net9.0\MaetodosAbstratus.dll
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\bin\Debug\net9.0\MaetodosAbstratus.pdb
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.GeneratedMSBuildEditorConfig.editorconfig
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.AssemblyInfoInputs.cache
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.AssemblyInfo.cs
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.csproj.CoreCompileInputs.cache
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.sourcelink.json
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.dll
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\refint\MaetodosAbstratus.dll
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.pdb
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\MaetodosAbstratus.genruntimeconfig.cache
+D:\drive2\C#\Medium\Cap9\MetodosAbstratos\MetodosAbstratus\obj\Debug\net9.0\ref\MaetodosAbstratus.dll

@@ -1,0 +1,15 @@
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\bin\Debug\net9.0\FormsAreasColor.exe
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\bin\Debug\net9.0\FormsAreasColor.deps.json
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\bin\Debug\net9.0\FormsAreasColor.runtimeconfig.json
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\bin\Debug\net9.0\FormsAreasColor.dll
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\bin\Debug\net9.0\FormsAreasColor.pdb
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.AssemblyInfoInputs.cache
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.AssemblyInfo.cs
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.csproj.CoreCompileInputs.cache
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.sourcelink.json
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.dll
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\refint\FormsAreasColor.dll
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.pdb
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\FormsAreasColor.genruntimeconfig.cache
+D:\drive2\C#\Medium\Cap9\FormsAreasColor\FormsAreasColor\obj\Debug\net9.0\ref\FormsAreasColor.dll

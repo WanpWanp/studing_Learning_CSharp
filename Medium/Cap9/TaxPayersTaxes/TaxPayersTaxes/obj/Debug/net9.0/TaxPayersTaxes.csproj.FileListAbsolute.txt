@@ -1,0 +1,15 @@
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.AssemblyInfoInputs.cache
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.AssemblyInfo.cs
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.csproj.CoreCompileInputs.cache
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.sourcelink.json
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\bin\Debug\net9.0\TaxPayersTaxes.exe
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\bin\Debug\net9.0\TaxPayersTaxes.deps.json
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\bin\Debug\net9.0\TaxPayersTaxes.runtimeconfig.json
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\bin\Debug\net9.0\TaxPayersTaxes.dll
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\bin\Debug\net9.0\TaxPayersTaxes.pdb
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.dll
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\refint\TaxPayersTaxes.dll
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.pdb
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\TaxPayersTaxes.genruntimeconfig.cache
+D:\drive2\C#\Medium\Cap9\TaxPayersTaxes\TaxPayersTaxes\obj\Debug\net9.0\ref\TaxPayersTaxes.dll

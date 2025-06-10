@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|d:\\drive2\\c#\\medium\\cap9\\formsareascolor\\formsareascolor\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|solutionrelative:formsareascolor\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|d:\\drive2\\c#\\medium\\cap9\\formsareascolor\\formsareascolor\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|solutionrelative:formsareascolor\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|d:\\drive2\\c#\\medium\\cap9\\formsareascolor\\formsareascolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|solutionrelative:formsareascolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|d:\\drive2\\c#\\medium\\cap9\\formsareascolor\\formsareascolor\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|solutionrelative:formsareascolor\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|d:\\drive2\\c#\\medium\\cap9\\formsareascolor\\formsareascolor\\entities\\enums\\shapecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807190F-C431-4E06-A6A1-0966E6C4A932}|FormsAreasColor\\FormsAreasColor.csproj|solutionrelative:formsareascolor\\entities\\enums\\shapecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "FormsAreasColor\\Entities\\Shape.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Shape.cs",
+              "RelativeToolTip": "FormsAreasColor\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:32:52.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "FormsAreasColor\\Entities\\Circle.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Circle.cs",
+              "RelativeToolTip": "FormsAreasColor\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:31:20.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "FormsAreasColor\\Entities\\Rectangle.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "FormsAreasColor\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:30:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShapeColor.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Enums\\ShapeColor.cs",
+              "RelativeDocumentMoniker": "FormsAreasColor\\Entities\\Enums\\ShapeColor.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Entities\\Enums\\ShapeColor.cs",
+              "RelativeToolTip": "FormsAreasColor\\Entities\\Enums\\ShapeColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:28:20.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Program.cs",
+              "RelativeDocumentMoniker": "FormsAreasColor\\Program.cs",
+              "ToolTip": "D:\\drive2\\C#\\Medium\\Cap9\\FormsAreasColor\\FormsAreasColor\\Program.cs",
+              "RelativeToolTip": "FormsAreasColor\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAjwDoAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:26:38.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
